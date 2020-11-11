@@ -25,10 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702a0eb5-5444-459c-a641-e3bd6067e49e" name="Default Changelist" comment="1">
+    <list default="true" id="702a0eb5-5444-459c-a641-e3bd6067e49e" name="Default Changelist" comment="fp3-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605126419282</updated>
-      <workItem from="1605126422626" duration="1167000" />
+      <workItem from="1605126422626" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1605126740062</created>
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605126740062</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fp3-1">
+      <created>1605127680373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605127680373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +114,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="fp3-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fp3-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="105" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605126908616">
@@ -120,10 +126,10 @@
       <screen x="0" y="0" width="1398" height="706" />
     </state>
     <state x="226" y="0" key="SettingsEditor/0.0.1398.706@0.0.1398.706" timestamp="1605126472976" />
-    <state x="295" y="90" key="Vcs.Push.Dialog.v2" timestamp="1605126750146">
+    <state x="196" y="75" key="Vcs.Push.Dialog.v2" timestamp="1605127693019">
       <screen x="0" y="0" width="1398" height="706" />
     </state>
-    <state x="295" y="90" key="Vcs.Push.Dialog.v2/0.0.1398.706@0.0.1398.706" timestamp="1605126750146" />
+    <state x="196" y="75" key="Vcs.Push.Dialog.v2/0.0.1398.706@0.0.1398.706" timestamp="1605127693019" />
     <state x="525" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605126765790">
       <screen x="0" y="0" width="1398" height="706" />
     </state>
