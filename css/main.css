@@ -49,19 +49,15 @@ a.nav-link {
 /*    padding-bottom: 3px;*/
 /*    padding-right: 15px;} */
 
-.navbar-light.justify-content-end
-
-{
+.navbar-light.justify-content-end {
     font-size: 20px;
     color: #fff3cd;
     text-align: right;
     word-spacing: 20px;
     padding-bottom: 3px;
     padding-right: 15px;
-
 }
 
 h5 {
     background-color: #778beb;
-
 }
